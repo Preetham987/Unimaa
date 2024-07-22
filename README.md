@@ -27,9 +27,3 @@ Unimaa is a Role-Based Access Control (RBAC) application developed using React N
 - Android Studio (for React Native development)
 - Java Development Kit (JDK)
 
-### Backend Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Preetham987/Unimaa.git
-   cd Unimaa
